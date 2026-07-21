@@ -56,7 +56,7 @@ Non-functional requirements describe the quality attributes of the system:
 
 4.	NFR4 - Usability: The interface shall be intuitive enough for a first-time user to complete a purchase without external help, and shall be accessible on both desktop and mobile browsers.
 
-5.	NFR5 - Scalability: The system shall support at least a 5x increase in concurrent users during peak sales events (e.g., seasonal discounts) without significant degradation in performance.
+5.	NFR5 - Scalability: The system shall support at least a 5x increase in concurrent users during peak sales events (e.g., seasonal discounts) without significant degradation in performance..
 
 5. User Stories
 User stories describe system interactions from the perspective of different users
